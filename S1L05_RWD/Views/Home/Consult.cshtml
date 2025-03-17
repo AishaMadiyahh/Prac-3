@@ -1,36 +1,33 @@
-﻿@model S1L05_RWD.Models.ErrorViewModel
-
-@{
+﻿@{
     ViewData["Title"] = "Consult";
 }
 
-<h2>Book a consultation with your lecturer</h2>  <!-- Write your comments here -->
+<h2 class="mb-4">Book a consultation with your Lecturer.</h2>  
 
 <form>
-    <h3> Your details</h3>
+    <h3>Your details</h3>
 
     <div class="row">
-        <div class="mb-3 col">
-            <label for="Firstname" class="form-label">First Name</label>
-            <input type="text" id="Firstname" class="form-control" required>
+        <div class="mb-3 col-md-6">
+            <label for="firstname" class="form-label">First Name</label>
+            <input type="text" class="form-control" id="firstname" required>
         </div>
 
-        <div class="mb-3">
-            <label for="Lastname" class="form-label">Last Name</label>
-            <input type="text" id="Lastname" class="form-control" required>
+        <div class="mb-3 col-md-6">
+            <label for="lastName" class="form-label">Last Name</label>
+            <input type="text" class="form-control" id="lastName" required>
         </div>
+    </div>
 
-        <div class="mb-3">
-            <label for="Email" class="form-label">Email Address</label>
-            <input type="email" id="Email" class="form-control" required>
-        </div>
+    <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input type="email" class="form-control" id="email" placeholder="name@example.com" required>
+    </div>
 
-        <div class="mb-3">
-            <label for="Comments" class="form-label">Comments</label>
-            <textarea class="form-contro" id="Comments"></textarea>
-        </div>
+    <div class="mb-3">
+        <label for="comments" class="form-label">Comments</label>
+        <textarea class="form-control" id="comments" rows="4"></textarea>
+    </div>
 
-
-
-        <button class="btn btn-success">Submit</button>
+    <button type="submit" class="btn btn-success">Submit</button>
 </form>
