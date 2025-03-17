@@ -1,46 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\",
+  "WorkspaceRootPath": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|c:\\users\\madiy\\onedrive\\documents\\inf 272 (pracs)\\prac 3\\s1l05_rwd\\s1l05_rwd\\views\\home\\consult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|solutionrelative:s1l05_rwd\\views\\home\\consult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\s1l05_rwd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|solutionrelative:s1l05_rwd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Schedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Schedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\s1l05_rwd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|solutionrelative:s1l05_rwd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\s1l05_rwd\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|solutionrelative:s1l05_rwd\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\s1l05_rwd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|solutionrelative:s1l05_rwd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\s1l05_rwd\\views\\home\\schedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|solutionrelative:s1l05_rwd\\views\\home\\schedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\s1l05_rwd\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|solutionrelative:s1l05_rwd\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\s1l05_rwd\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|solutionrelative:s1l05_rwd\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\s1l05_rwd\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|solutionrelative:s1l05_rwd\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\s1l05_rwd\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5486F33-C764-4E79-9F0F-A64FC834422F}|S1L05_RWD\\S1L05_RWD.csproj|solutionrelative:s1l05_rwd\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -62,124 +54,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "S1L05_RWD\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "S1L05_RWD\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T22:29:37.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "S1L05_RWD\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "S1L05_RWD\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T22:03:26.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "S1L05_RWD\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "S1L05_RWD\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T22:41:52.967Z"
+              "WhenOpened": "2025-03-12T10:11:06.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "S1L05_RWD\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "S1L05_RWD\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Title": "Schedule.cshtml",
+              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Schedule.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Schedule.cshtml",
+              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Schedule.cshtml",
+              "RelativeToolTip": "Views\\Home\\Schedule.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T21:55:24.305Z"
+              "WhenOpened": "2025-03-12T10:10:56.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Consult.cshtml",
-              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Consult.cshtml",
-              "RelativeDocumentMoniker": "S1L05_RWD\\Views\\Home\\Consult.cshtml",
-              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Consult.cshtml",
-              "RelativeToolTip": "S1L05_RWD\\Views\\Home\\Consult.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T10:39:16.918Z",
+              "WhenOpened": "2025-03-12T10:10:47.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap-grid.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap-grid.rtl.min.css",
+              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeToolTip": "Content\\bootstrap-grid.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T10:10:23.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T10:08:19.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Schedule.cshtml",
-              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Schedule.cshtml",
-              "RelativeDocumentMoniker": "S1L05_RWD\\Views\\Home\\Schedule.cshtml",
-              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\Schedule.cshtml",
-              "RelativeToolTip": "S1L05_RWD\\Views\\Home\\Schedule.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T22:31:17.014Z"
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:07:16.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "S1L05_RWD\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "S1L05_RWD\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T10:11:02.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "bootstrap-grid.rtl.min.css",
-              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Content\\bootstrap-grid.rtl.min.css",
-              "RelativeDocumentMoniker": "S1L05_RWD\\Content\\bootstrap-grid.rtl.min.css",
-              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Content\\bootstrap-grid.rtl.min.css",
-              "RelativeToolTip": "S1L05_RWD\\Content\\bootstrap-grid.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\272 LECTURE CODES\\LECTURE 3 Example\\S1L05_RWD\\S1L05_RWD\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-09T22:27:04.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "S1L05_RWD\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "S1L05_RWD\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T22:19:00.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "S1L05_RWD\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\madiy\\OneDrive\\Documents\\INF 272 (PRACS)\\PRAC 3\\S1L05_RWD\\S1L05_RWD\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "S1L05_RWD\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T22:02:19.891Z"
+              "WhenOpened": "2025-03-12T10:07:07.874Z",
+              "EditorCaption": ""
             }
           ]
         }
